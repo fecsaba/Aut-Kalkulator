@@ -1,0 +1,9 @@
+C:\Users\nexus\source\repos\AutoCalc\bin\AutoCalc.dll.config
+C:\Users\nexus\source\repos\AutoCalc\bin\AutoCalc.dll
+C:\Users\nexus\source\repos\AutoCalc\bin\AutoCalc.pdb
+C:\Users\nexus\source\repos\AutoCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nexus\source\repos\AutoCalc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nexus\source\repos\AutoCalc\obj\Debug\AutoCalc.csprojResolveAssemblyReference.cache
+C:\Users\nexus\source\repos\AutoCalc\obj\Debug\AutoCalc.csproj.CoreCompileInputs.cache
+C:\Users\nexus\source\repos\AutoCalc\obj\Debug\AutoCalc.dll
+C:\Users\nexus\source\repos\AutoCalc\obj\Debug\AutoCalc.pdb
